@@ -1,13 +1,10 @@
 # Modern Blog Platform
 
-![Blog Homepage](https://images.pexels.com/photos/6177645/pexels-photo-6177645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-
 A beautifully designed, feature-rich blog platform built with React and TypeScript. This modern web application provides an exceptional reading experience with thoughtful design touches and performance optimizations.
 
 ## ✨ Features
 
 ### Elegant Reading Experience
-![Reading Experience](https://images.pexels.com/photos/6177607/pexels-photo-6177607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 - Distraction-free reading mode
 - Customizable font sizes and reading preferences
@@ -15,7 +12,6 @@ A beautifully designed, feature-rich blog platform built with React and TypeScri
 - Progress indicator while reading
 
 ### Content Organization
-![Categories](https://images.pexels.com/photos/6177697/pexels-photo-6177697.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 - Intuitive category browsing
 - Tag-based filtering system
@@ -23,7 +19,6 @@ A beautifully designed, feature-rich blog platform built with React and TypeScri
 - Related posts recommendations
 
 ### Engagement Tools
-![Comments](https://images.pexels.com/photos/6177560/pexels-photo-6177560.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 - Threaded commenting system
 - Social sharing capabilities
@@ -31,7 +26,6 @@ A beautifully designed, feature-rich blog platform built with React and TypeScri
 - Bookmark functionality for registered users
 
 ### Responsive Design
-![Mobile View](https://images.pexels.com/photos/6177610/pexels-photo-6177610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 - Perfect viewing experience across all devices
 - Mobile-optimized reading experience
