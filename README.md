@@ -1,1 +1,1 @@
-# CosmeticMart
+# Blog Page
