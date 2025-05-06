@@ -83,8 +83,6 @@ A beautifully designed, feature-rich blog platform built with React and TypeScri
 
 Our blog is fully responsive and provides an exceptional mobile experience:
 
-![Mobile Experience](https://images.pexels.com/photos/6177654/pexels-photo-6177654.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-
 ## 🎨 Customization
 
 The blog theme can be customized by modifying the `tailwind.config.js` file:
